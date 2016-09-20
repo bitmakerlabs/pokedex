@@ -10,7 +10,7 @@ Provided in this code is a seed file that will populate your database with 100 P
 
 1. Fork this repo
 2. Run `bundle install`
-3. Run `rake db:setup` (this should create the database, load the schema and initialize with seed data)
+3. Run `bundle exec rake db:setup` (this should create the database, load the schema and initialize with seed data)
 
 ## Assignment
 
